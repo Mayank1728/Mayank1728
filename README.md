@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mayank1728
+- 👋 Hi, I’m Mayank1728
 - 👀 I’m interested in JavaScript and React
 - 🌱 I’m currently building instagram clone
-- 💞️ I’m learning to Data Structures and Algorithms
+- 💞️ I’m learning Data Structures and Algorithms
 - 📫 How to reach me mayankmudgal111@gmail.com
 
 <!---
