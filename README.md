@@ -3,6 +3,7 @@
 - 🌱 I’m currently building instagram clone
 - 💞️ I’m learning Data Structures and Algorithms
 - 📫 How to reach me mayankmudgal111@gmail.com
+- Blog : https://mayank1728.hashnode.dev/
 
 <!---
 Mayank1728/Mayank1728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
