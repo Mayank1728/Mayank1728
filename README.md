@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank1728
 - 👀 I’m interested in JavaScript and React
-- 🌱 I’m currently building instagram clone
-- 💞️ I’m learning Data Structures and Algorithms
+- 🌱 I’m currently building web-crawler
+- 💞️ I’m learning backend development
 - 📫 How to reach me mayankmudgal111@gmail.com
 - Blog : https://mayank1728.hashnode.dev/
 
