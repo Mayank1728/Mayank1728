@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank1728
-- 👀 I’m interested in JavaScript and React
-- 🌱 I’m currently building web-crawler
-- 💞️ I’m learning backend development
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently building moviz app
+- 💞️ I’m learning Android development
 - 📫 How to reach me mayankmudgal111@gmail.com
 - Blog : https://mayank1728.hashnode.dev/
 
