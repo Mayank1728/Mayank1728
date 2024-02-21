@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayank1728
-- 👀 I’m interested App Development and like to write blogs!
+- 👀 I’m interested in App Development and write blogs about it!
 - 💞️ Currently developing my Kickdrops-Ecommerce-App with complete FrontEnd + Backend.
 - 📫 How to reach me mayankmudgal111@gmail.com
 - Blog : https://mayank1728.hashnode.dev/
